@@ -1,1 +1,0 @@
-DM_via_Logic: Using binary to define the properties, do data mining with simple logic expression. 
