@@ -4,13 +4,13 @@ MachineLearning and DataMining
 Implements of Machine Learning and Data Mining Algorithm Experimentations
 
 
-##Branch-and-Bound
+## Branch-and-Bound
 
 A C Implements version of Branch-and-Bound. 
 
 And can be used to analysize the data, generating a logic expression which accepts all the opsitive examples and reject all the negative examples.
 
-##WeatherAnalysis
+## WeatherAnalysis
 
 Processing Weather Data with DM methods
 
@@ -20,3 +20,6 @@ For detail, here we use principal component analysis decision tree(C4.5) and som
 
 I chose Matlab to do the pretreatment. And using WEKA to do the mining.
 
+## fastText
+
+fastText official example
